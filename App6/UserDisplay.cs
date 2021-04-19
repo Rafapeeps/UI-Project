@@ -23,6 +23,8 @@ namespace App6
 
             TextView name = FindViewById<TextView>(Resource.Id.userEmail);
             name.Text = Login.Email;
+
+            //hello world
         }
     }
 }
