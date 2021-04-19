@@ -1,0 +1,252 @@
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\App6.dll
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\App6.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\App6.App6.apk
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\App6.nuget.stamp
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\App6.csprojAssemblyReference.cache
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res.flag
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\App6.csproj.CoreCompileInputs.cache
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\App6.dll
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\App6.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\android\bin\App6.App6.apk
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\values\colors.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\values\strings.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\values\styles.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\res\layout\layout.xml
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\R.cs.flag
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\R.txt
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\uploadflags.txt
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\Mono.Android.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\mscorlib.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\System.Core.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\System.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\System.Xml.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\System.Net.Http.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\rafap\source\repos\App6\App6\bin\Debug\Mono.Security.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\App6.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\System.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\rafap\source\repos\App6\App6\obj\Debug\81\android\assets\App6.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\App6.dll
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\App6.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\App6.App6.apk
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\App6.nuget.stamp
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\App6.csprojAssemblyReference.cache
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res.flag
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\App6.csproj.CoreCompileInputs.cache
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\App6.dll
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\App6.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\bin\App6.App6.apk
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\values\colors.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\values\strings.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\values\styles.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\res\layout\layout.xml
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\R.cs.flag
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\R.txt
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\uploadflags.txt
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\Mono.Android.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\Mono.Security.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\mscorlib.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\System.Core.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\System.Net.Http.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\System.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\bin\Debug\System.Xml.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\App6.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\System.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\App6.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\System.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\TouchdownPC\Downloads\App6\App6\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\App6.nuget.stamp
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\App6.csprojAssemblyReference.cache
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res.flag
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\App6.dll
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\App6.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\App6.dll
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\App6.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\App6.App6.apk
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\App6.csproj.CoreCompileInputs.cache
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\android\bin\App6.App6.apk
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\values\colors.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\values\strings.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\values\styles.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\R.cs.flag
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\R.txt
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\uploadflags.txt
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\Mono.Android.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\Mono.Security.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\mscorlib.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\System.Core.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\System.Net.Http.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\System.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\rafap\Desktop\App6\App6\bin\Debug\System.Xml.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\App6.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\System.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\rafap\Desktop\App6\App6\obj\Debug\81\android\assets\App6.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\App6.csprojAssemblyReference.cache
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res.flag
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\App6.dll
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\App6.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\App6.dll
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\App6.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\App6.App6.apk
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\App6.nuget.stamp
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\App6.csproj.CoreCompileInputs.cache
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\bin\App6.App6.apk
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\values\colors.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\values\strings.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\values\styles.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\R.cs.flag
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\R.txt
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\uploadflags.txt
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\Mono.Android.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\Mono.Security.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\mscorlib.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\System.Core.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\System.Net.Http.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\System.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\bin\Debug\System.Xml.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\App6.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\System.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\App6.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\System.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\rafap\Desktop\2nd Term\Mob6\FOR ILS!\App6\App6\obj\Debug\81\android\assets\System.Xml.pdb

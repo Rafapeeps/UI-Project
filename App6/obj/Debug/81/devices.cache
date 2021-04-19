@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device id="127.0.0.1:62001">
+    <ResultingAbi>x86</ResultingAbi>
+    <SdkVersion>25</SdkVersion>
+  </Device>
+  <Device id="CQAASCVW99999999">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>23</SdkVersion>
+  </Device>
+  <Device id="emulator-5554">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>21</SdkVersion>
+  </Device>
+  <Device id="7c9fc13">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>29</SdkVersion>
+  </Device>
+</Devices>
