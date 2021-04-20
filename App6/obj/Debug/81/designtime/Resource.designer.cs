@@ -2384,9 +2384,6 @@ namespace App6
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F010009
-			public const int btn = 2130771977;
-			
 			// aapt resource value: 0x7F010007
 			public const int btnLogin = 2130771975;
 			
@@ -2690,9 +2687,6 @@ namespace App6
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
 			
-			// aapt resource value: 0x7F010008
-			public const int TextView = 2130771976;
-			
 			// aapt resource value: 0x7F010002
 			public const int textView1 = 2130771970;
 			
@@ -2899,6 +2893,9 @@ namespace App6
 			// aapt resource value: 0x7F020002
 			public const int activity_main = 2130837506;
 			
+			// aapt resource value: 0x7F020003
+			public const int Dashboard = 2130837507;
+			
 			// aapt resource value: 0x7F0F001B
 			public const int design_bottom_navigation_item = 2131689499;
 			
@@ -2940,9 +2937,6 @@ namespace App6
 			
 			// aapt resource value: 0x7F0F0028
 			public const int design_text_input_password_icon = 2131689512;
-			
-			// aapt resource value: 0x7F020003
-			public const int layout = 2130837507;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;

@@ -29,7 +29,7 @@
 		android:includeFontPadding="false"
 		android:textColor="#ff000000" />
 	<EditText
-		android:layout_width="350dp"
+		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:id="@+id/userEmail"
 		android:hint="example@example.com"
