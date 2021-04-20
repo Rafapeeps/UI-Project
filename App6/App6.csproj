@@ -97,7 +97,7 @@
     <PackageReference Include="Xamarin.Android.Support.Design" Version="27.0.2.1" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\Dashboard.axml">
+    <AndroidResource Include="Resources\layout\dashboard.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

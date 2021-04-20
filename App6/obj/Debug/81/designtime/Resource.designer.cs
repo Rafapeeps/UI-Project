@@ -2894,7 +2894,7 @@ namespace App6
 			public const int activity_main = 2130837506;
 			
 			// aapt resource value: 0x7F020003
-			public const int Dashboard = 2130837507;
+			public const int dashboard = 2130837507;
 			
 			// aapt resource value: 0x7F0F001B
 			public const int design_bottom_navigation_item = 2131689499;
